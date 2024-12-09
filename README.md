@@ -106,8 +106,11 @@ Fig 5: Showing Final Net Taxable income, Net Tax, Savings made after applying de
 It can be observed that tax awareness is very important for civilians who pay various taxes to the government. It helps individuals and businesses understand their tax obligations and make informed decisions about their finances and ensure that they are in compliance with the tax laws. This system gives you all possible ways to save taxes just by entering the profession and income and reduces the complexity of the existing system thus, making it easier for the general public for better financial planning and management.  It can also increase transparency and fairness in the tax system, and promote public trust in government and its revenue collection efforts
 
 **References**
+
 [1]  Let us C by Yashwant Kanetkar 
+
 [2]  Programming in ANSI C by Balaguruswamy 
+
 [3] https://incometaxindia.gov.in/Pages/tools/income-tax-calculator-234ABC.aspx
 
 
